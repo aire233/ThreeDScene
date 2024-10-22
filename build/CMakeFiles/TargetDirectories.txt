@@ -1,0 +1,3 @@
+/mnt/e/cymviscode/cg/project_2/build/CMakeFiles/ThreeDScene.dir
+/mnt/e/cymviscode/cg/project_2/build/CMakeFiles/edit_cache.dir
+/mnt/e/cymviscode/cg/project_2/build/CMakeFiles/rebuild_cache.dir
